@@ -1,0 +1,267 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "CppDesignPatterns",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AbstractFactory::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AbstractFactory-Debug-c332d87b3d29825ce7b1.json",
+					"name" : "AbstractFactory",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Bridge::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Bridge-Debug-6e8b168b06240781f2f2.json",
+					"name" : "Bridge",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Builder::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Builder-Debug-9f1c29a9cd8e2df29253.json",
+					"name" : "Builder",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ChainOfResponsibility::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ChainOfResponsibility-Debug-7c50283000ea14a73311.json",
+					"name" : "ChainOfResponsibility",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ClassAdapter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ClassAdapter-Debug-b2cb7676011d348d3be3.json",
+					"name" : "ClassAdapter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Command::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Command-Debug-2c618bed03b4388ed935.json",
+					"name" : "Command",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Composite::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Composite-Debug-1016b288f9a1b6382588.json",
+					"name" : "Composite",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Decorator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Decorator-Debug-32abf8315eaf8920df74.json",
+					"name" : "Decorator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Facade::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Facade-Debug-55c0cb3c9e6a620e515d.json",
+					"name" : "Facade",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FactoryMethod::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FactoryMethod-Debug-2c3c90a37177cb65e160.json",
+					"name" : "FactoryMethod",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Flyweight::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Flyweight-Debug-f179405347590432fc61.json",
+					"name" : "Flyweight",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Interpreter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Interpreter-Debug-318188fe5a463e502406.json",
+					"name" : "Interpreter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Iterator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Iterator-Debug-5743d5760e0a457309c1.json",
+					"name" : "Iterator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Mediator::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Mediator-Debug-98ff81b6ff0341d4d800.json",
+					"name" : "Mediator",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Memento::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Memento-Debug-58ece2c8774810dcd66e.json",
+					"name" : "Memento",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ObjectAdapter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ObjectAdapter-Debug-8e62e3da29682b512dcc.json",
+					"name" : "ObjectAdapter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Observer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Observer-Debug-694f3fad15cc1a440188.json",
+					"name" : "Observer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Prototype::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Prototype-Debug-613981cd435181a99a49.json",
+					"name" : "Prototype",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Proxy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Proxy-Debug-1a0b84a0042241e9516d.json",
+					"name" : "Proxy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Singleton::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Singleton-Debug-c5f9326241a62cb1ed14.json",
+					"name" : "Singleton",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "State::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-State-Debug-f00e1f498e4818e3dad5.json",
+					"name" : "State",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Strategy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Strategy-Debug-e289e4d0c658eebe75d1.json",
+					"name" : "Strategy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TemplateMethod::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TemplateMethod-Debug-3641aa3aa6376b373140.json",
+					"name" : "TemplateMethod",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Visitor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Visitor-Debug-e200173dcfce61ce224d.json",
+					"name" : "Visitor",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/szc/git_repo/design-patterns-cpp/build",
+		"source" : "/Users/szc/git_repo/design-patterns-cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

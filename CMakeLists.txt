@@ -34,14 +34,11 @@ foreach(_dir IN ITEMS ${PATTERNS})
 
     foreach(_file IN ITEMS ${_files})
 
-        get_filename_component(_file_name
-                                ${_file} NAME
-        )
-
-        set(_project_name "${_file_name}")
-        message(STATUS "  ${_dir}/${_file_name} is going to be built")
-        
-        add_executable(${_project_name} "${_dir}/${_file_name}")
+    get_filename_component(_file_name_we ${_file} NAME_WE)  # 获取不带扩展名的文件名
+    get_filename_component(_file_name ${_file} NAME)  # 获取完整文件名
+    set(_project_name "${_file_name_we}")
+    message(STATUS "  ${_dir}/${_file_name} is going to be built as ${_project_name}")
+    add_executable(${_project_name} "${_dir}/${_file_name}")
     endforeach()
     
 endforeach()

@@ -1,0 +1,146 @@
+[
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/AbstractFactory.dir/abstract-factory/AbstractFactory.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/abstract-factory/AbstractFactory.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/abstract-factory/AbstractFactory.cpp",
+  "output": "CMakeFiles/AbstractFactory.dir/abstract-factory/AbstractFactory.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/ClassAdapter.dir/adapter/ClassAdapter.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/adapter/ClassAdapter.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/adapter/ClassAdapter.cpp",
+  "output": "CMakeFiles/ClassAdapter.dir/adapter/ClassAdapter.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/ObjectAdapter.dir/adapter/ObjectAdapter.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/adapter/ObjectAdapter.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/adapter/ObjectAdapter.cpp",
+  "output": "CMakeFiles/ObjectAdapter.dir/adapter/ObjectAdapter.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Bridge.dir/bridge/Bridge.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/bridge/Bridge.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/bridge/Bridge.cpp",
+  "output": "CMakeFiles/Bridge.dir/bridge/Bridge.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Builder.dir/builder/Builder.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/builder/Builder.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/builder/Builder.cpp",
+  "output": "CMakeFiles/Builder.dir/builder/Builder.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/ChainOfResponsibility.dir/chain-of-responsibility/ChainOfResponsibility.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/chain-of-responsibility/ChainOfResponsibility.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/chain-of-responsibility/ChainOfResponsibility.cpp",
+  "output": "CMakeFiles/ChainOfResponsibility.dir/chain-of-responsibility/ChainOfResponsibility.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Command.dir/command/Command.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/command/Command.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/command/Command.cpp",
+  "output": "CMakeFiles/Command.dir/command/Command.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Composite.dir/composite/Composite.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/composite/Composite.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/composite/Composite.cpp",
+  "output": "CMakeFiles/Composite.dir/composite/Composite.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Decorator.dir/decorator/Decorator.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/decorator/Decorator.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/decorator/Decorator.cpp",
+  "output": "CMakeFiles/Decorator.dir/decorator/Decorator.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Facade.dir/facade/Facade.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/facade/Facade.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/facade/Facade.cpp",
+  "output": "CMakeFiles/Facade.dir/facade/Facade.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/FactoryMethod.dir/factory-method/FactoryMethod.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/factory-method/FactoryMethod.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/factory-method/FactoryMethod.cpp",
+  "output": "CMakeFiles/FactoryMethod.dir/factory-method/FactoryMethod.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Flyweight.dir/flyweight/Flyweight.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/flyweight/Flyweight.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/flyweight/Flyweight.cpp",
+  "output": "CMakeFiles/Flyweight.dir/flyweight/Flyweight.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Interpreter.dir/interpreter/Interpreter.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/interpreter/Interpreter.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/interpreter/Interpreter.cpp",
+  "output": "CMakeFiles/Interpreter.dir/interpreter/Interpreter.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Iterator.dir/iterator/Iterator.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/iterator/Iterator.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/iterator/Iterator.cpp",
+  "output": "CMakeFiles/Iterator.dir/iterator/Iterator.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Mediator.dir/mediator/Mediator.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/mediator/Mediator.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/mediator/Mediator.cpp",
+  "output": "CMakeFiles/Mediator.dir/mediator/Mediator.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Memento.dir/memento/Memento.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/memento/Memento.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/memento/Memento.cpp",
+  "output": "CMakeFiles/Memento.dir/memento/Memento.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Observer.dir/observer/Observer.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/observer/Observer.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/observer/Observer.cpp",
+  "output": "CMakeFiles/Observer.dir/observer/Observer.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Prototype.dir/prototype/Prototype.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/prototype/Prototype.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/prototype/Prototype.cpp",
+  "output": "CMakeFiles/Prototype.dir/prototype/Prototype.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Proxy.dir/proxy/Proxy.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/proxy/Proxy.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/proxy/Proxy.cpp",
+  "output": "CMakeFiles/Proxy.dir/proxy/Proxy.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Singleton.dir/singleton/Singleton.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/singleton/Singleton.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/singleton/Singleton.cpp",
+  "output": "CMakeFiles/Singleton.dir/singleton/Singleton.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/State.dir/state/State.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/state/State.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/state/State.cpp",
+  "output": "CMakeFiles/State.dir/state/State.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Strategy.dir/strategy/Strategy.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/strategy/Strategy.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/strategy/Strategy.cpp",
+  "output": "CMakeFiles/Strategy.dir/strategy/Strategy.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/TemplateMethod.dir/template-method/TemplateMethod.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/template-method/TemplateMethod.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/template-method/TemplateMethod.cpp",
+  "output": "CMakeFiles/TemplateMethod.dir/template-method/TemplateMethod.cpp.o"
+},
+{
+  "directory": "/Users/szc/git_repo/design-patterns-cpp/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/Visitor.dir/visitor/Visitor.cpp.o -c /Users/szc/git_repo/design-patterns-cpp/visitor/Visitor.cpp",
+  "file": "/Users/szc/git_repo/design-patterns-cpp/visitor/Visitor.cpp",
+  "output": "CMakeFiles/Visitor.dir/visitor/Visitor.cpp.o"
+}
+]
